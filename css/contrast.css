@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+header {
+    margin-bottom: 2em;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    height: 6em;
+    margin-top: 2em;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+h2 {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+a {
+    color: darkblue;
+}
+
+a:visited {
+    color: royalblue;
+}
+
+.vid {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 10em;
+}
+
+video {
+    width: 70%;
+    height: auto;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.container {
+    margin-top: 5em;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.centered {
+    text-align: center;
+}
+
+.switch {
+    margin-left: 2em;
+}
+
+.col {
+    text-align: center;
+}
+
+.col img {
+    margin: 0.5em;
+}
+
+.gridFejlec {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#fejlec {
+    margin-bottom: 2em;
+}
+
+nav#tartalomraugras a {
+    position: absolute;
+    left: -9999px;
+    padding: 0%;
+    margin: 0%;
+}
+
+nav#tartalomraugras a:focus {
+    position: static;
+    background-color: white
+}
+
+#footerName {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 0.5em;
+}
+
+#name {
+    padding-left: 4%;
+}
+
+#torzs {
+    margin: 5em;
+    padding: 2em;
+}

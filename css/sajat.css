@@ -1,0 +1,135 @@
+html {
+    background-size: cover;
+}
+
+body {
+    background-image: url(../images/hatterkep.png);
+    background-size: cover;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    margin-bottom: 2em;
+}
+
+p {
+    text-align: justify;
+}
+
+b {
+    color: burlywood;
+}
+
+section {
+    text-align: justify;
+}
+
+section h2 {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(33, 37, 41);
+    color: white;
+    height: 6em;
+    margin-top: 2em;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+h2 {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+a:visited {
+    color: lightblue;
+}
+
+.vid {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 10em;
+}
+
+video {
+    width: 70%;
+    height: auto;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.container {
+    margin-top: 5em;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.centered {
+    text-align: center;
+}
+
+.col {
+    text-align: center;
+}
+
+.col img {
+    margin: 0.5em;
+}
+
+.dropdown-menu {
+    background-color: rgb(33, 37, 41);
+}
+
+.dropdown-menu a {
+    color: white;
+}
+
+.gridFejlec {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#fejlec {
+    margin-bottom: 2em;
+}
+
+nav#tartalomraugras a {
+    position: absolute;
+    left: -9999px;
+    padding: 0%;
+    margin: 0%;
+}
+
+nav#tartalomraugras a:focus {
+    position: static;
+    background-color: white
+}
+
+#footerName {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 0.5em;
+}
+
+#name {
+    padding-left: 4%;
+}
+
+#torzs {
+    margin: 5em;
+    padding: 2em;
+    background-color: rgba(0, 0, 0, 70%);
+}
